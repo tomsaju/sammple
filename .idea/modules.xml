@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VysakhDraft.iml" filepath="$PROJECT_DIR$/VysakhDraft.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\workspace\android\VysakhDraft\sammple.iml" filepath="E:\workspace\android\VysakhDraft\sammple.iml" />
     </modules>
   </component>
 </project>
