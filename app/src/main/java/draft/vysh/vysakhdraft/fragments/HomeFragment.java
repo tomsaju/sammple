@@ -108,11 +108,10 @@ public class HomeFragment extends Fragment {
     }
 
     private void initView(View rootView) {
-        homeTxt = (TextView) rootView.findViewById(R.id.home_txt);
-        relativeLayout = (RelativeLayout) rootView.findViewById(R.id.relativeLayout);
-        relMain = (RelativeLayout) rootView.findViewById(R.id.rel_main);
-        linearLayout = (LinearLayout) rootView.findViewById(R.id.linearLayout);
-        topBanner = (LinearLayout) rootView.findViewById(R.id.top_banner);
+       // homeTxt = (TextView) rootView.findViewById(R.id.home_txt);
+      //  relativeLayout = (RelativeLayout) rootView.findViewById(R.id.relativeLayout);
+      //  relMain = (RelativeLayout) rootView.findViewById(R.id.rel_main);
+      //  linearLayout = (LinearLayout) rootView.findViewById(R.id.linearLayout);
         homeTxt2 = (TextView) rootView.findViewById(R.id.home_txt2);
         relativeLayout2 = (RelativeLayout) rootView.findViewById(R.id.relativeLayout2);
         favSceneRecyclerview = (RecyclerView) rootView.findViewById(R.id.fav_scene_recyclerview);
